@@ -18,3 +18,4 @@ Initialize the Terraform configuration
 Apply the Terraform configuration
 * `$ terraform apply`
 
+

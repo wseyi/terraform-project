@@ -13,7 +13,7 @@
 * [Terraform](https://developer.hashicorp.com/terraform/install?product_intent=terraform)
 
 Initialize the Terraform configuration
-* `$ terraform init'
+* `$ terraform init`
 
 Apply the Terraform configuration
 * `$ terraform apply`
